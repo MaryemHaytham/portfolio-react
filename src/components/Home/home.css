@@ -24,7 +24,7 @@
 }
 
 .react-theme::before {
-  background-image: url('../assets/react.svg');
+  background-image: url('../../assets/react.svg');
   animation: spin 60s linear infinite;
 }
 
